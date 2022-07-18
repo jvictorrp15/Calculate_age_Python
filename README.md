@@ -29,4 +29,4 @@ $ python calculate.py
 
 ## *Author Name*
 <!--Remove the below lines and add yours -->
-[Gaodong](https://github.com/xlgd)
+[João Victor Ramalho Pereira](https://github.com/jvictorrp15)
